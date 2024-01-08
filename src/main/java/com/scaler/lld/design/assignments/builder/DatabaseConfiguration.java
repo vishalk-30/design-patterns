@@ -41,4 +41,6 @@ public class DatabaseConfiguration {
     public boolean isReadOnly() {
         return isReadOnly;
     }
+
+
 }
